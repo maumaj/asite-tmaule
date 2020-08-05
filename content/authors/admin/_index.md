@@ -10,7 +10,10 @@ authors:
   - admin
 bio: ""
 interests:
-  - x
+  - Meta-analysis
+  - Network Statistics
+  - Sampling
+  - Nonparametric Statistics
 social:
   - icon: envelope
     icon_pack: fas
