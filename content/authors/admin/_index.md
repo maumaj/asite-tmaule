@@ -1,31 +1,23 @@
 ---
 organizations:
-  - name: Department of Statistics | Northwestern University
+  - name: Department of Statistics Northwestern University
     url: ""
 superuser: true
 authors:
   - admin
 title: Tyler Maule
-role: PhD Student | Department of Statistics | Northwestern University
+role: PhD Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:tylermaule2025@u.northwestern.edu
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/maumaj
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,7 +34,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
+Tyler Maule is a first-year student in the statistics PhD program at Northwestern University. His interests include meta-analysis, sampling, nonparametric statistics, and network statistics, especially in the context of the social sciences and public policy. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He grew up in the California Bay Area, and received a BA in Economics and Mathematics from Whitman College.
