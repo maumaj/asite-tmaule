@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Tyler Maule
-role: Professor of Artificial Intelligence
+role: PhD Student | Department of Statistics | Northwestern University
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
