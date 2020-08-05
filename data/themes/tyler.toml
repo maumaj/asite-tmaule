@@ -5,7 +5,7 @@ name = "Tyler"
 light = true
 
 # Primary
-primary = "rgb(117, 17, 89)"
+primary = "rgb(80, 17, 89)"
 
 # Menu
 menu_primary = "rgb(143, 45, 86)" # 500
