@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: Department of Statistics | Northwestern University
     url: ""
 superuser: true
 authors:
