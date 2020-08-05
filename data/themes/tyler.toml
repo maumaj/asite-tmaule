@@ -8,9 +8,9 @@ light = true
 primary = "rgb(85, 73, 113)"
 
 # Menu
-menu_primary = "rgb(99, 118, 141)" # 500
+menu_primary = "rgb(143, 45, 86)" # 500
 menu_text = "#fff"
-menu_text_active = "rgb(138, 198, 208)" # A100
+menu_text_active = "rgb(216, 17, 89)" # A100
 menu_title = "#fff"
 
 # Home sections
