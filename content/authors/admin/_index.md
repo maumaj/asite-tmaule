@@ -11,7 +11,7 @@ authors:
 bio: ""
 interests:
   - Meta-analysis
-  - Network Statistics
+  - Network Science
   - Sampling
   - Nonparametric Statistics
 social:
@@ -31,6 +31,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Tyler Maule is a first-year student in the statistics PhD program at Northwestern University. His interests include meta-analysis, sampling, nonparametric statistics, and network statistics, especially in the context of the social sciences and public policy. 
+Tyler Maule is a first-year student in the statistics PhD program at Northwestern University. His interests include meta-analysis, sampling, nonparametric statistics, and network science, especially in the context of the social sciences and public policy. 
 
 He grew up in the California Bay Area, and received a BA in Economics and Mathematics from [Whitman College](https://www.whitman.edu/).
