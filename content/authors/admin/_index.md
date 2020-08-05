@@ -33,4 +33,4 @@ user_groups:
 ---
 Tyler Maule is a first-year student in the statistics PhD program at Northwestern University. His interests include meta-analysis, sampling, nonparametric statistics, and network statistics, especially in the context of the social sciences and public policy. 
 
-He grew up in the California Bay Area, and received a BA in Economics and Mathematics from Whitman College.
+He grew up in the California Bay Area, and received a BA in Economics and Mathematics from [Whitman College](https://www.whitman.edu/).
