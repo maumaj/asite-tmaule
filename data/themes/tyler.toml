@@ -5,12 +5,12 @@ name = "Tyler"
 light = true
 
 # Primary
-primary = "rgb(255, 188, 66)"
+primary = "rgb(216, 17, 89)"
 
 # Menu
 menu_primary = "rgb(143, 45, 86)" # 500
 menu_text = "#fff"
-menu_text_active = "rgb(216, 17, 89)" # A100
+menu_text_active = "rgb(255, 188, 66)" # A100
 menu_title = "#fff"
 
 # Home sections
