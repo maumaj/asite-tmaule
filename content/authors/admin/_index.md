@@ -1,16 +1,17 @@
 ---
+title: Tyler Maule
+role: PhD Student
+avatar_filename: 568a774ac4525311f2bb0a73493f3037.jpg
 organizations:
   - name: Department of Statistics Northwestern University
     url: ""
 superuser: true
 authors:
   - admin
-title: Tyler Maule
-role: PhD Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - ""
+  - x
 social:
   - icon: envelope
     icon_pack: fas
