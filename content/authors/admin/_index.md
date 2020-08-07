@@ -1,7 +1,7 @@
 ---
 title: Tyler Maule
 role: PhD Student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.jpeg
 organizations:
   - name: Department of Statistics, Northwestern University
     url: ""
